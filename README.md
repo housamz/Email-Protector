@@ -6,4 +6,4 @@ You just need to put the email address in the box, press Enter (or click the sub
 ### Example:
 ![Example](example.png "Example")
 
-Working demo: http://t.hmz.ie/email-protector
+Working demo: http://www.hmz.ie/email-protector
